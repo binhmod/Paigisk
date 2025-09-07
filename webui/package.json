@@ -1,0 +1,27 @@
+{
+  "name": "paigisk",
+  "version": "1.0.0",
+  "description": "Library for Paigisk's module WebUI",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binhmod/Paigisk.git"
+  },
+  "keywords": [
+    "su",
+    "shizuku",
+    "paigisk",
+    "module",
+    "webui"
+  ],
+  "author": "binhmod",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/binhmod/Paigisk/issues"
+  },
+  "homepage": "https://github.com/binhmod/Paigisk#readme"
+}
